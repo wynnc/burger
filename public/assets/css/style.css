@@ -1,5 +1,6 @@
 body{
   background-color: bisque;
+  color: #333
   /* text-align: center */
 }
 
@@ -17,6 +18,13 @@ li {
 ol {
   width: 50%;
   float: left
+}
+
+#burgerImage{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 .label {

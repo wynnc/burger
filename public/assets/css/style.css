@@ -1,7 +1,22 @@
+body{
+  background-color: bisque;
+  /* text-align: center */
+}
+
+.centerInfo{
+  text-align: center
+}
+
 li {
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
+  /* background: #faebd7; */
+  /* width: 50% */
+}
+
+ol {
+  width: 50%;
+  float: left
 }
 
 .label {
